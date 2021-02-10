@@ -1,0 +1,33 @@
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background: url("./pattern.webp") ;
+}
+
+.h2_fonts{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes_color{
+    background-color: mediumspringgreen;
+}
+
+.frames_color{
+    background-color: lightcoral ;
+}
+
+.paint_color{
+    background-color: skyblue;
+}
+
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
